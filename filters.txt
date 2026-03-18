@@ -1,0 +1,7 @@
+||yahoo.com^
+||yimg.com^
+||yahoodns.net^
+||yahoofs.com^
+||yahooapis.com^
+||flickr.com^
+||tumblr.com^

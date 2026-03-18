@@ -5,3 +5,5 @@
 ||yahooapis.com^
 ||flickr.com^
 ||tumblr.com^
+||yahoo.com
+||www.yahoo.com
